@@ -1,9 +1,7 @@
-package com.example.kamil.calculator;
+package com.kbnt.qam.calculatorview;
 
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
-
-import com.kbnt.qam.calculatorview.Ui;
 
 import org.junit.Rule;
 import org.junit.Test;
@@ -19,7 +17,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 public class ButtonsEnabledTest {
 
     @Rule
-    public ActivityTestRule<MainActivity> activityTestRule = new ActivityTestRule<>(MainActivity.class);
+    public ActivityTestRule<TestActivity> activityTestRule = new ActivityTestRule<>(TestActivity.class);
 
     @Test
     public void Buttons_Active_test() throws Exception {
