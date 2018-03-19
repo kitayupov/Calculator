@@ -1,4 +1,4 @@
-package com.example.kamil.calculator.util;
+package com.kbnt.qam.calculatorview.util;
 
 import java.util.ArrayList;
 import java.util.Arrays;

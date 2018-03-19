@@ -6,7 +6,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.example.kamil.calculator.view.CalculatorView
+    <com.kbnt.qam.calculatorview.CalculatorView
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 

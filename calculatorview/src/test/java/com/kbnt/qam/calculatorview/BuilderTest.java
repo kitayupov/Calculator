@@ -1,6 +1,6 @@
-package com.example.kamil.calculator;
+package com.kbnt.qam.calculatorview;
 
-import com.example.kamil.calculator.util.SequenceBuilder;
+import com.kbnt.qam.calculatorview.util.SequenceBuilder;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.example.kamil.calculator.view;
+package com.kbnt.qam.calculatorview;
 
 import android.content.Context;
 import android.support.annotation.Nullable;
@@ -8,9 +8,8 @@ import android.widget.Button;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.kamil.calculator.R;
-import com.example.kamil.calculator.util.SequenceBuilder;
-import com.example.kamil.calculator.util.SequenceCalculator;
+import com.kbnt.qam.calculatorview.util.SequenceBuilder;
+import com.kbnt.qam.calculatorview.util.SequenceCalculator;
 
 public class CalculatorView extends RelativeLayout {
 
